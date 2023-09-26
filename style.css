@@ -1,0 +1,26 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #192940;
+    font-weight: 200;
+}
+
+p {
+    color: #616161;
+}
+
+.brand-logo > img {
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+
+
+.float-container {
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid rgb(0, 0, 0);
+}  
